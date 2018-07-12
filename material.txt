@@ -1,0 +1,5 @@
+ubom: 6
+1m bom: 10
+0,5 spira: 10
+1m stal-plank: 15
+dubbelkil: 8
